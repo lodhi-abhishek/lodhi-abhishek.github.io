@@ -1,0 +1,17 @@
+<span id="a">abhishek@singh</span> <span id="b">linux</span> <span id="h">/usr</span> <span id="c">(master)</span>
+<span id="c">$</span> git clone https://github.com/lodhi-abhishek/abhishek.git
+
+<span id="a">abhishek@singh</span> <span id="b">linux</span> <span id="h">/usr</span> <span id="c">(master)</span>
+<span id="c">$</span> cd abhishek
+
+<span id="a">abhishek@singh</span> <span id="b">linux</span> <span id="h">/usr/abhishek</span> <span id="c">(master)</span>
+<span id="c">$</span> cat ABOUT_ME.txt<br>
+<span id="op"><hr></span><br>
+<span id="k"><b>Hi, I'm Abhishek Singh.</b></span> <!-- sjkfhskjf -->
+
+I a an student and part-time MERN full-stack developer. Most of my work is open source and can be found at my <a href="https://github.com/lodhi-abhishek">GitHub</a>.
+<p>Outside of programming I enjoy Reading and Volleyball.</p>
+<p>Some of my projects include:</p>
+
+<a href="https://github.com/lodhi-abhishek/grapher"><b>Grapher - Visualize your Mathematical Equation through Graph 📈.</a>
+<a href="https://github.com/lodhi-abhishek/eth-sm-contract"><b>eth-sm-contract<b> - D-app for ❤️‍🩹 Health Insurance Claim and Refund: Based on Smart Contracts.</a>
